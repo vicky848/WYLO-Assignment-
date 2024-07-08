@@ -1,0 +1,100 @@
+
+.like-button{
+background-color: blue;
+color: #ffffff;
+font-size: 12px;
+font-family: "Roboto";
+font-weight: 800;
+border-radius: 10px;
+border-width: 0px;
+cursor: pointer;
+height: 26px;
+width: 90px;
+margin: 10px;
+
+
+
+}
+.edit-button{
+    background-color: blue;
+color: #ffffff;
+font-size: 12px;
+font-family: "Roboto";
+font-weight: 800;
+border-radius: 10px;
+border-width: 0px;
+cursor: pointer;
+height: 26px;
+width: 90px;
+
+
+}
+
+.edit-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 600px;
+    
+}
+
+.edit-input{
+    
+    padding: 0px;
+    margin-left: 5px;
+    margin-right: 30px;
+    text-align: center;
+
+
+}
+.edit-text-area{
+    height: 50px;
+    margin: 5px;
+   padding: 0px;
+   text-align: center;
+    
+
+}
+.edit-container{
+    margin-top: 20px;
+    
+}
+.edit-save-button{
+    background-color: rgb(11, 85, 11);
+    color: #ffffff;
+    margin: 5px;
+    font-size: 10px;
+   height: 40px;
+   width: 50px;
+   font-weight: 300;
+   border-radius: 4px;
+   border-width: 0px;
+   cursor: pointer;
+}
+.edit-cancel-button{
+    background-color:rgb(201, 12, 12);
+    color: #ffffff;
+   
+    font-weight: 700;
+   border-radius: 4px;
+   border-width: 0px;
+   cursor: pointer;
+   width: 50px;
+   font-size: 10px;
+   height: 40px;
+   
+
+}
+
+/* .content-container{
+    
+
+} */
+.card{
+    margin: 10px;
+    border: solid 1px, #ffffff;
+    width: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
+}

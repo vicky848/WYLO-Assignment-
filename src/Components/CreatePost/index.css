@@ -1,0 +1,42 @@
+.form-container{
+    margin-top: 20px;
+    padding-top: 20PX;
+}
+
+.button{
+    height: 32px;
+    width: 132px;
+    border-radius: 6px;
+    border-width: 0px;
+    background-color: rgb(106, 185, 27);
+    color: #ffffff;
+    font-weight: 600;
+    cursor: pointer;
+}
+:hover.button{
+    background-color: black;
+}
+
+.input{
+    height: 30px;
+    width: 250px;
+   
+}
+.text-area{
+    width: 550px;
+    height: 100px;
+    
+
+}
+
+.card-container{
+    margin: 10px;
+}
+
+
+.error{
+    color: rgb(243, 51, 51);
+}
+.success{
+    color: rgb(26, 134, 26);
+}

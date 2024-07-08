@@ -1,0 +1,19 @@
+
+
+.list-container{
+    list-style-type: none;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+   
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   margin-top: 10px;
+  
+   
+    border-radius: 10px;
+    
+   
+}
